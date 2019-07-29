@@ -8,7 +8,7 @@
 如果有更好的方式的話，請發個 PR 給我吧，我知道這招有點硬，雖然有用
 
 ## <a id="usage"></a>用法
-1. 直接複製[源程式碼](chrome-line-font-size-adj.js)
+1. 直接複製[源程式碼](https://raw.githubusercontent.com/david-fox-chang/chrome-line-app-input-font-adjustment-helper/master/chrome-line-font-size-adj.js)
 2. <a id="step-1"></a>在 `chrome line-app` 的執行畫面下，按下 <key>F12</key>，開啟 `chrome devTools`
 3. <a id="step-2"></a>將 `chrome devTools` 切換至 `Sources` > `Spinnets`
 4. 按下 `+ New Spinnet`
